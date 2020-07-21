@@ -39,7 +39,7 @@ function ternaryTeenager(age)
 
   "You are a teenager":
 
-  "You are not a teenager"
+  "You are not a teenager":
 }
  }
 
